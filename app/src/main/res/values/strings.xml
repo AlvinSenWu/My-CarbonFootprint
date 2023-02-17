@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">aswu-MyCarFootprint</string>
+    <string name="TripName">Location</string>
+    <string name="date">yyyy-mm-dd</string>
+    <string name="litres">Gasoline Price</string>
+    <string name="perLitre">Litres</string>
+    <string name="gas_total">Fuel Cost: </string>
+    <string name="empty" />
+    <string name="carbon_footprint">Carbon Footprint:</string>
+    <string name="fuel_type">fuel type:</string>
+</resources>
